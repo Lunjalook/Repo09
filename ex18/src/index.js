@@ -28,4 +28,4 @@ console.log(myForLoop2());
 module.exports = {
     myForLoop1,
     myForLoop2
-}
+};
