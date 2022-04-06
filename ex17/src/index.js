@@ -7,7 +7,7 @@ function inverseWhile() {
     while (i >= 0) {
 
         fiveNumbers += i;
-        if (j !== 0) {
+        if (j != 0) {
             fiveNumbers += ',';
             j--;
         }
