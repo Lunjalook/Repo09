@@ -4,7 +4,7 @@ function myDoWhile() {
     do {
         myNumbers += i;
         if (i != 9) {
-            myNumbers += ",";
+            myNumbers += ", ";
         }
         i++;
     } while (i < 10);
